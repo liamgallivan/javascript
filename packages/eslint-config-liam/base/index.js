@@ -73,7 +73,6 @@ module.exports = {
     'eqeqeq': 2,                     // http://eslint.org/docs/rules/eqeqeq
     'guard-for-in': 2,               // http://eslint.org/docs/rules/guard-for-in
     'no-caller': 2,                  // http://eslint.org/docs/rules/no-caller
-    'no-else-return': 2,             // http://eslint.org/docs/rules/no-else-return
     'no-eq-null': 2,                 // http://eslint.org/docs/rules/no-eq-null
     'no-eval': 2,                    // http://eslint.org/docs/rules/no-eval
     'no-extend-native': 2,           // http://eslint.org/docs/rules/no-extend-native
@@ -125,7 +124,6 @@ module.exports = {
     }],
     'comma-style': [2, 'last'],      // http://eslint.org/docs/rules/comma-style
     'eol-last': 2,                   // http://eslint.org/docs/rules/eol-last
-    'func-names': 1,                 // http://eslint.org/docs/rules/func-names
     'key-spacing': [2, {             // http://eslint.org/docs/rules/key-spacing
       'beforeColon': false,
       'afterColon': true
