@@ -23,17 +23,6 @@ module.exports = {
     'jsx': true
   },
   'rules': {
-    /**
-     * Strict mode
-     */
-    // babel inserts 'use strict'; for us
-    'strict': [2, 'never'],          // http://eslint.org/docs/rules/strict
-
-    /**
-     * ES6
-     */
-    'no-var': 2,                     // http://eslint.org/docs/rules/no-var
-    'prefer-const': 2,               // http://eslint.org/docs/rules/prefer-const
 
     /**
      * Variables
@@ -111,7 +100,6 @@ module.exports = {
     'no-throw-literal': 2,           // http://eslint.org/docs/rules/no-throw-literal
     'no-with': 2,                    // http://eslint.org/docs/rules/no-with
     'radix': 2,                      // http://eslint.org/docs/rules/radix
-    'vars-on-top': 2,                // http://eslint.org/docs/rules/vars-on-top
     'wrap-iife': [2, 'any'],         // http://eslint.org/docs/rules/wrap-iife
     'yoda': 2,                       // http://eslint.org/docs/rules/yoda
 
