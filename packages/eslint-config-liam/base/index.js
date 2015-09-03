@@ -71,7 +71,6 @@ module.exports = {
       'allowKeywords': true
     }],
     'eqeqeq': 2,                     // http://eslint.org/docs/rules/eqeqeq
-    'guard-for-in': 2,               // http://eslint.org/docs/rules/guard-for-in
     'no-caller': 2,                  // http://eslint.org/docs/rules/no-caller
     'no-eq-null': 2,                 // http://eslint.org/docs/rules/no-eq-null
     'no-eval': 2,                    // http://eslint.org/docs/rules/no-eval
