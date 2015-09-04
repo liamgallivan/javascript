@@ -66,7 +66,6 @@ module.exports = {
      */
     'consistent-return': 2,          // http://eslint.org/docs/rules/consistent-return
     'curly': [2, 'multi-line'],      // http://eslint.org/docs/rules/curly
-    'default-case': 2,               // http://eslint.org/docs/rules/default-case
     'dot-notation': [2, {            // http://eslint.org/docs/rules/dot-notation
       'allowKeywords': true
     }],
