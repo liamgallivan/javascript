@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-liam",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Airbnb's ESLint config, modified by Liam Gallivan",
   "main": "index.js",
   "scripts": {
